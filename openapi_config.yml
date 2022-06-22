@@ -1,0 +1,10 @@
+packageName: cielo24
+packageVersion: 1.0.0
+npmName: cielo24
+projectName: cielo24
+gitHost: github.com
+gitUserId: cielo24
+gitRepoId: cielo24-python
+platform: node
+supportsES6: true
+inputSpec: ../cielo24-openapi/cielo24.yml
