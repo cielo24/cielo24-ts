@@ -11,7 +11,7 @@ Method | HTTP request | Description
 [**jobInfo**](JobApi.md#jobInfo) | **GET** /job/info | 
 [**newJob**](JobApi.md#newJob) | **POST** /job/new | 
 [**performTranscription**](JobApi.md#performTranscription) | **POST** /job/perform_transcription | 
-[**performTranslation**](JobApi.md#performTranslation) | **POST** /job/perform_translation | 
+[**performTranslation**](JobApi.md#performTranslation) | **POST** /job/translate | 
 
 
 # **addMediaFile**

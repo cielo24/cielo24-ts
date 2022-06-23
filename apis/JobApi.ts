@@ -782,7 +782,7 @@ export class JobApiRequestFactory extends BaseAPIRequestFactory {
 
 
         // Path Params
-        const localVarPath = '/job/perform_translation';
+        const localVarPath = '/job/translate';
 
         // Make Request Context
         const requestContext = _config.baseServer.makeRequestContext(localVarPath, HttpMethod.POST);

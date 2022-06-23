@@ -182,7 +182,7 @@ export class JobInfoResponse {
 
 
 export type JobInfoResponsePriorityEnum = "STANDARD" | "PRIORITY" ;
-export type JobInfoResponseFidelityEnum = "MECHANICAL" | "PREMIUM" | "PROFESSIONAL" ;
+export type JobInfoResponseFidelityEnum = "MECHANICAL" | "PREMIUM" | "PROFESSIONAL" | "HIGH" ;
 export type JobInfoResponseJobStatusEnum = "Authorizing" | "Pending" | "In Process" | "Complete" | "Media Failure" | "Reviewing" ;
 export type JobInfoResponseJobDifficultyEnum = "Good" | "Bad" | "Unknown" ;
 
